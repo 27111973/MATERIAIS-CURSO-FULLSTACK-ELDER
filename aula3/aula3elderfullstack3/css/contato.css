@@ -1,0 +1,29 @@
+body {
+  background:lightblue;
+ font-weight: bold;
+  font-size:40px;
+}
+h1 {
+  font-style: italic;
+  text-decoration:underline;
+}
+select:focus{
+  background-color:orange;
+
+}
+textarea:focus {
+  background-color:lightblue;
+  resize:vertical;
+
+}
+input:focus {
+  background-color:yellow;
+}
+textarea {
+  resize:horizontal;
+}
+a:hover {
+  font-size:30px;
+  color:white;
+  font-weight:bold;
+}

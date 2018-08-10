@@ -1,0 +1,74 @@
+body {
+  background-color: yellow;
+  background-image: url(../aula2/images/lazer.jpg);
+
+  background-size: 100% 100%;
+  background-attachment: fixed;
+
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+  text-decoration:underline;
+  color:rgba(220,20,60,0.9);
+  background-color: rgba(12,128,128,0.2);
+}
+img {
+margin-left:470px;
+border: 10px solid darkgreen;
+}
+video {
+  margin-left:410px;
+  border: 10px solid black;
+}
+.vid {
+   font-size: 20px;
+   color:black;
+   font-weight: bold;
+}
+iframe {
+  margin-left:420px;
+  border: 10px solid gray;
+  border-radius:40px;
+}
+audio {
+  margin-left:500px;
+  border-radius:50px;
+  background-color:black;
+
+}
+.aud {
+  font-size: 20px;
+  color:orange;
+  font-weight: bold;
+}
+
+.ibi {
+  margin-left: 470px;
+  border:10px solid darkgreen;
+  margin-top:10px
+}
+.aut {
+  margin-left: 470px;
+  border:10px solid red;
+  margin-top:10px
+}
+p {
+  text-align: center;
+  font-weight:bold;
+  color:darkgreen;
+  font-size:20px;
+   margin:-7px;
+   text-decoration: underline;
+}
+.cor {
+  font-size:20px;
+  color:red;
+  text-decoration: underline;
+}
+a {
+  font-size:20px;
+  color:rgba(105,105,105,0.9);
+  background-color:rgba(255,160,122,0.6);
+  font-weight:bold;
+}

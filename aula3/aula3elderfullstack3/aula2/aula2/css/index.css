@@ -1,0 +1,94 @@
+body {
+  font-size:25px;
+  font-family:  helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  line-height:23px;
+  background-image: url(../aula2/images/lazer1.jpg);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+ }
+
+
+h1 {
+  text-align:center;
+  font-style:italic;
+  background-color: rgba(191,187,63,0.5);
+  text-decoration: underline;
+  text-decoration-color:darkgreen;
+  color: rgba(0,0,128,1);
+  padding:10px;
+  font-size: 35px;
+
+}
+h2 {
+  text-align:center;
+  text-decoration:underline;
+  text-decoration-color:darkgreen;
+  color:black;
+  font-weight:none;
+  font-size: 40px;
+}
+
+p {
+
+  text-align:justify;
+  font-size: 22px;
+}
+
+ol {
+
+  text-align:justify;
+}
+ul {
+
+
+}
+li {
+
+
+  text-align:justify;
+}
+.b {
+  margin-left: 550px;
+}
+
+footer {
+  background-color: rgba(152,251,152,0.8);
+  padding:5px;
+  color:white;
+  font-weight:bold;
+  text-align:center;
+}
+
+.estilo {
+color:darkgreen;
+font-size: 22px;
+text-decoration: underline;
+font-weight: bold;
+line-height:50px;
+
+}
+p.estilo {
+  background-color: rgba(211,211,211,1);
+  opacity:0.8;
+  font-weight: bold;
+}
+li {
+  font-size:22px;
+  color:black;
+  line-height:23px;
+}
+.gd {
+  font-size:35px;
+  background-color:yellow;
+}
+.xi{
+  font-size:40px;
+  background-color:lightgreen;
+}
+.mk {
+  font-size:50px;
+  color:rgba(211,211,211,1);
+  background-color:darkblue;
+}
